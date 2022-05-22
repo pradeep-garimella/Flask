@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+li{
+  color:  rgb(30, 200, 0);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+p{
+  color: #eab01c;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h4 {
+  color: rgba(13,90,140,0.5)
+  font-family: 'Source Sans Pro', sans-serif;
+}
